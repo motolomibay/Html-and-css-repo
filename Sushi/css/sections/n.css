@@ -1,0 +1,22 @@
+.one {
+    
+    border: solid green ;
+    border-radius: 14px 0 0 0;
+    height: 100px;
+    width: 100px;
+
+
+}
+.cc{
+    border: solid gold;
+    display: flex;
+    flex-direction: row;
+
+}
+.cc p {
+    border: solid green;
+    display: flex;
+    flex-direction: column;
+    
+
+}
